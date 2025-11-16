@@ -1,5 +1,5 @@
-# -Real-time-Telegram-alerts-for-session-status.
-
+# -Real-time-Telegram-alerts-for-session-status. ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsohag1192%2F-Real-time-Telegram-alerts-for-session-status&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+ 
 ✅ Real-time Telegram alerts for  status.
 
 ---
